@@ -4,7 +4,7 @@
 
 # Powered by Node.js WebSocket Backend
 
-# ON_CHAT is a sleek, modern, and secure real-time messaging app built using SwiftUI on the frontend and Node.js (WebSockets) on the backend. Designed with performance, privacy, and elegant UI in mind — it's perfect for scalable messaging experiences on iOS.
+# ON_CHAT is a sleek, modern, and secure real-time messaging app built using SwiftUI on the frontend and Node.js (WebSockets) on the backend. Designed with performance, privacy, and elegant UI in mind it's perfect for scalable messaging experiences on iOS.
 
 # Features
 
