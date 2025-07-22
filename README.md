@@ -24,7 +24,7 @@
 
 * Smooth UI Animations & Transitions
 
-# Layer	Tech
+# Tech Stack
 * Frontend	Swift, SwiftUI, Combine, async/await
 * Backend	Node.js, Express, WebSocket (ws)
 * Architecture	MVVM, Decoupled Networking Layer
